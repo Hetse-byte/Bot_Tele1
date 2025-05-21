@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+img2pdf
+pillow
+beautifulsoup4
+aiohttp
+requests
+nest_asyncio
+flask
